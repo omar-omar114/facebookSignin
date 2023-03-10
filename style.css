@@ -1,0 +1,89 @@
+body{
+     background-color: rgb(242, 242, 242);
+
+}
+
+button{
+     cursor: pointer;
+}
+.page{
+     display: inline;
+     margin-top: 50px;
+}
+
+.signall{
+     float: right;
+     margin-right: 200px;
+     margin-top: 80px;
+     margin-left: 0;
+}
+.signin {
+     width: 400px;
+     height: 300px;
+     border: 1px;
+     border-radius: 5px;
+     text-align: center;
+     padding-top: 60px;
+     padding-bottom: 60px;
+     box-shadow: 3px 3px 3px gray;
+     background-color: white;
+     margin-right: 0;
+}
+
+.text3{
+     text-align: center;
+}
+
+.intro {
+     float: left;
+     margin-top: 150px;
+     margin-left: 100px;
+     width: 600px;
+     height: 250px;
+     
+}
+
+.text1{
+     color:  rgb(31, 74, 230);
+     font-size: 90px;
+     font-weight: 700;
+     margin: 0;
+
+}
+
+.text2{
+     font-size: 30px;
+     margin: 0;
+}
+
+.info{
+     width: 300px;
+     height: 40px;
+     margin-bottom: 20px;
+     
+}
+
+.btn1{
+     width: 300px;
+     height: 35px;
+     margin-top: 10px;
+     background-color: rgb(62, 104, 254);
+     border: none;
+     color: white;
+     font-size: 15px;   
+}
+
+.btn2 {
+     width: 300px;
+     height: 35px;
+     background-color: rgb(19, 193, 25);
+     border: none;
+     color: white;
+     font-size: 15px;
+     margin-top: 20px;
+
+}
+
+hr{
+     width: 300px;
+}
